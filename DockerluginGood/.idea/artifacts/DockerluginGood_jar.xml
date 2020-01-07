@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DockerluginGood:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DockerluginGood_jar</output-path>
+    <root id="archive" name="DockerluginGood.jar">
+      <element id="module-output" name="DockerluginGood" />
+    </root>
+  </artifact>
+</component>

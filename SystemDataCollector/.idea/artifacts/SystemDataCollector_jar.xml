@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SystemDataCollector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SystemDataCollector_jar</output-path>
+    <root id="archive" name="SystemDataCollector.jar">
+      <element id="module-output" name="SystemDataCollector" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../PluginService/out/artifacts/PluginService_jar/PluginService.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

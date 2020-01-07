@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PluginService">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PluginService/out/artifacts/PluginService_jar/PluginService.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
